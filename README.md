@@ -1,6 +1,6 @@
 # Igor Stec
 
-Right now I'm into OS kernels, computer networks, and machine learning and statistics (I know, very original these days). I like knowing how the languages and technologies I use actually work under the hood. My favorite language is C++, and I'm always up for trying something new.
+Into OS kernels, computer networks, and machine learning and statistics (I know, very original these days). I like knowing how the languages and technologies I use actually work under the hood. My favorite language is C++, and I'm always up for trying something new.
 
 ## 🛠️ Tech stack
 
