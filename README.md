@@ -2,7 +2,7 @@
 
 Into OS kernels, computer networks, and machine learning and statistics (I know, very original these days). I like knowing how the languages and technologies I use actually work under the hood. My favorite language is C++, and I'm always up for trying something new.
 
-## 🛠️ Tech stack
+## Tech stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -13,13 +13,7 @@ Into OS kernels, computer networks, and machine learning and statistics (I know,
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact
 - [![Gmail](https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white)](mailto:igor.stec05@gmail.com)
