@@ -2,8 +2,6 @@
 
 Into OS kernels, computer networks, and machine learning and statistics (I know, very original these days). I like knowing how the languages and technologies I use actually work under the hood. My favorite language is C++, and I'm always up for trying something new.
 
-## Tech stack
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,12 +13,10 @@ Into OS kernels, computer networks, and machine learning and statistics (I know,
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Contact
-- [![Gmail](https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white)](mailto:igor.stec05@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-stec/)
-- [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/cets/)
-  
-## Play me :)
-[![Chess.com](https://img.shields.io/badge/Chess.com-%2381B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/sorkichess)
+[![Gmail](https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white)](mailto:igor.stec05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-stec/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/cets/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-logo=chessdotcom&logoColor=white)](https://www.chess.com/member/sorkichess)
 
 > FIN ACK
 
